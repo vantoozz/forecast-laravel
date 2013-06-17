@@ -1,0 +1,17 @@
+{
+    "name": "vantoozz/forecast-laravel",
+    "description": "forecast.io",
+    "keywords": ["forecast", "api"],
+    "authors": [
+        {
+            "name": "Ivan Nikitin",
+            "email": "vantoozz@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Forecast": "src/" }
+    }
+}
